@@ -33,9 +33,7 @@
 
    更改一下项目目录，更改的目录如下
 
-   
-
-   ![image-20210225162258770](/Users/zoulan/Library/Application Support/typora-user-images/image-20210225162258770.png)
+   ![https://github.com/Zahara-lanlan/image/blob/master/img/1.png]()
 
    将生成的src改成examples，用于测试自定义的组件
 
@@ -135,7 +133,7 @@
 
 
 
-
+[详情如下](https://github.com/Zahara-lanlan/image/blob/master/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%BA%93.pdf)
 
 
 
