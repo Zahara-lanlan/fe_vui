@@ -133,7 +133,7 @@
 
 
 
-[详情如下](https://github.com/Zahara-lanlan/image/blob/master/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%BA%93.pdf)
+[详情如下](https://github.com/Zahara-lanlan/static_resources/blob/master/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%BA%93.pdf)
 
 
 
